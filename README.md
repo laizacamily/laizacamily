@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laiza Camily
-- My goal is to work in the field of front-end web development.
+- 🎯 My goal is to increasingly improve my knowledge in FrontEnd
 - 🌱 I’m currently learning HTML, CSS and JavaScript
   
 
